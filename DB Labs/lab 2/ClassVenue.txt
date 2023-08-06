@@ -1,0 +1,3 @@
+ID,Building,RoomNum,TeacherID
+1,CS,2,1
+2,Civil,7,2
